@@ -10,7 +10,7 @@ public class testActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		//testActivity
+		//testActivityaaa
 	}
 
 	@Override
