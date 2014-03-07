@@ -12,6 +12,7 @@ public class testActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		//testActivity
 		//master
+		//r2_index
 	}
 
 	@Override
