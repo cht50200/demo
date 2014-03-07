@@ -11,6 +11,7 @@ public class testActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		//testActivity
+		//master
 	}
 
 	@Override
